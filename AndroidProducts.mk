@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_mido.mk
+    $(LOCAL_DIR)/aosip_mido.mk
 
