@@ -24,8 +24,9 @@ $(call inherit-product, device/xiaomi/mido/device.mk)
 # Boot Animation res
 TARGET_BOOT_ANIMATION_RES := 1080
 
-# Inherit some common LineageOS stuff.
+# Inherit some common AndroidQ stuff.
 $(call inherit-product, vendor/aosip/config/common_full_phone.mk)
+TARGET_GAPPS_ARCH := arm64
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mido
