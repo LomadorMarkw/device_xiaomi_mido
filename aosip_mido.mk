@@ -28,6 +28,9 @@ IS_PHONE := true
 TARGET_MINIMAL_APPS := false
 TARGET_INCLUDE_STOCK_ARCORE := true
 
+# Official-ify
+AOSIP_BUILDTYPE := Official
+
 # Inherit some common AndroidQ stuff.
 $(call inherit-product, vendor/aosip/config/common_full_phone.mk)
 
