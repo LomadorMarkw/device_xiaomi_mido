@@ -410,3 +410,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.adb.secure=0 \
     ro.secure=0 \
     ro.debuggable=1    
+
+# AdvancedControls
+PRODUCT_PACKAGES += \
+    AdvancedControls \
+Updates
