@@ -586,7 +586,7 @@
     <bool name="config_ledCanPulse">true</bool>
 
      <!-- Whether device ignores the RSSNR signal implementation -->
-    <bool name="config_ignoreRssnrSignalLevel">true</bool>
+     <bool name="config_ignoreRssnrSignalLevel">true</bool>
     
     <!-- The component name, flattened to a string, for the default autofill service
          to  enabled for an user. This service must be trusted, as it can be activated
