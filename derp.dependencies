@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "DerpFest-Devices/device_xiaomi_mido",
+    "target_path": "device/xiaomi/mido",
+    "branch": "O_d10",
+    "remote": "github"
+  }
+
+  {
+    "repository": "DerpFest-Devices/vendor_xiaomi_mido",
+    "target_path": "vendor/xiaomi",
+    "branch": "O_d10",
+    "remote": "github"
+  }
+]
